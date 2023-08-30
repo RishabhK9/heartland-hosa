@@ -1,0 +1,46 @@
+.instagram-text {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-size: 400% 400%;
+    color: transparent;
+}
+
+.facebook-text {
+    background: linear-gradient(-45deg, #17a7fc, #0166e2);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-size: 400% 400%;
+    color: transparent;
+}
+
+.remind-text {
+    background: linear-gradient(-45deg, #accbff, #0474de);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-size: 400% 400%;
+    color: transparent;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+@-webkit-keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
