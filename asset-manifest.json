@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/heartland-hosa/static/css/main.9bfbd4ec.css",
-    "main.js": "/heartland-hosa/static/js/main.a66848d6.js",
+    "main.js": "/heartland-hosa/static/js/main.570b89a3.js",
     "static/media/with_sign.png": "/heartland-hosa/static/media/with_sign.79a072f80edef7ac5a1d.png",
     "static/media/farangist.png": "/heartland-hosa/static/media/farangist.1eb562f411b6279c524d.png",
     "static/media/tanvi.png": "/heartland-hosa/static/media/tanvi.d4b7246923ccecbb296d.png",
@@ -17,10 +17,10 @@
     "index.html": "/heartland-hosa/index.html",
     "static/media/remind.svg": "/heartland-hosa/static/media/remind.d21c4b996386156d114067a72848ff3c.svg",
     "main.9bfbd4ec.css.map": "/heartland-hosa/static/css/main.9bfbd4ec.css.map",
-    "main.a66848d6.js.map": "/heartland-hosa/static/js/main.a66848d6.js.map"
+    "main.570b89a3.js.map": "/heartland-hosa/static/js/main.570b89a3.js.map"
   },
   "entrypoints": [
     "static/css/main.9bfbd4ec.css",
-    "static/js/main.a66848d6.js"
+    "static/js/main.570b89a3.js"
   ]
 }
