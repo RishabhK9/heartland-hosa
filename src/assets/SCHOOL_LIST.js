@@ -12,7 +12,6 @@ export const SCHOOL_NAMES = [
     "Land O' Lakes High School",
     'Leesburg High School',
     'McKeel Academy of Technology',
-    'Mulberry High School',
     'NeoCity Academy',
     'Osceola Technical College',
     'Polk State Chain Of Lakes Collegiate High School',
@@ -31,10 +30,10 @@ export const SCHOOL_NAMES = [
 ];
 
 export const SCHOOL_IMAGES = [
-    'https://bhs.polkschoolsfl.com/wp-content/uploads/sites/8/BHSStackedLogo_PMS_OL.png',
-    'https://bms.polkschoolsfl.com/wp-content/uploads/sites/7/slider2/hornet.png',
+    'https://cdnsm5-ss20.sharpschool.com/UserFiles/Servers/Server_3012647/Image/logo/BHSStackedLogo_PMS_OL.png',
+    'https://cdn.discordapp.com/attachments/721948674183266359/1174598878851514488/302616922_589634475858504_239168479420121131_n.png?ex=65682d73&is=6555b873&hm=033d49fd320c3bb469d813061b9a4885af49de588438eda0ceca54846565acc4&',
     'https://www.osceolaschools.net/cms/lib/FL50000609/Centricity/Template/GlobalAssets/images///School%20Logos/Celebration%20High.png',
-    'https://fmmshs.polkschoolsfl.com/wp-content/uploads/sites/29/Fort-Meade-Middle-Senior-High.png',
+    'https://cdnsm5-ss20.sharpschool.com/UserFiles/Servers/Server_3019933/Image/logo/Fort-Meade-Middle-Senior-High.png',
     'https://www.fourcornersupperschool.org/pics/header_logo.png',
     'https://pbs.twimg.com/profile_images/1027970963290382338/MnkmA81__400x400.jpg',
     'https://ghs.pasco.k12.fl.us/wp-content/uploads/ghs/2017/12/cropped-ghs_logo_512.png',
