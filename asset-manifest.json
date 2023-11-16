@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/heartland-hosa/static/css/main.9bfbd4ec.css",
+    "main.js": "/heartland-hosa/static/js/main.451df754.js",
+    "static/media/with_sign.png": "/heartland-hosa/static/media/with_sign.79a072f80edef7ac5a1d.png",
+    "static/media/farangist.png": "/heartland-hosa/static/media/farangist.1eb562f411b6279c524d.png",
+    "static/media/tanvi.png": "/heartland-hosa/static/media/tanvi.d4b7246923ccecbb296d.png",
+    "static/media/sarvesh.png": "/heartland-hosa/static/media/sarvesh.1800498a38e14f1d211d.png",
+    "static/media/sajni.png": "/heartland-hosa/static/media/sajni.2adf55a4f78885660f28.png",
+    "static/media/ananth.png": "/heartland-hosa/static/media/ananth.d5a1ed41ef11aa8686e3.png",
+    "static/media/arman.png": "/heartland-hosa/static/media/arman.25b499a053af9cea3cc1.png",
+    "static/media/sydney.png": "/heartland-hosa/static/media/sydney.676cd17a4af1f1557047.png",
+    "static/media/rishabh.jpeg": "/heartland-hosa/static/media/rishabh.d531cddc2db0cfbdcfa8.jpeg",
+    "static/media/books.svg": "/heartland-hosa/static/media/books.ffad59112f2bc5eeea9a1d3d57d33ba7.svg",
+    "static/media/trophy.svg": "/heartland-hosa/static/media/trophy.16ac256c3e7806452f249b23dcc32d9b.svg",
+    "static/media/increase.svg": "/heartland-hosa/static/media/increase.01a7684e406b15c37630336526e8626b.svg",
+    "index.html": "/heartland-hosa/index.html",
+    "static/media/remind.svg": "/heartland-hosa/static/media/remind.d21c4b996386156d114067a72848ff3c.svg",
+    "main.9bfbd4ec.css.map": "/heartland-hosa/static/css/main.9bfbd4ec.css.map",
+    "main.451df754.js.map": "/heartland-hosa/static/js/main.451df754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfbd4ec.css",
+    "static/js/main.451df754.js"
+  ]
+}
